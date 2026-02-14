@@ -1,4 +1,5 @@
 TR:
+
 Google Play Store Veri Analizi ve Özellik Mühendisliği
 Bu çalışma, mobil uygulama dünyasındaki trendleri ve uygulama popülerliğini etkileyen faktörleri anlamak amacıyla gerçekleştirilmiştir. Gerçek dünya verilerinin karmaşıklığını ve temizleme süreçlerini içeren kapsamlı bir analizdir.
 
@@ -13,6 +14,7 @@ Keşifçi Veri Analizi (EDA): Uygulama kategorileri, kullanıcı yorumları, boy
 Pazar Analizi: Ücretli vs Ücretsiz uygulamaların performans karşılaştırması.
 
 ENG:
+
 Google Play Store Data Analysis & Feature Engineering
 This project aims to understand market trends in the mobile app industry and the factors influencing app popularity. It provides a comprehensive look into the complexities of real-world data and the necessary cleaning processes.
 
